@@ -7,5 +7,5 @@
 
 # Deskripsi Aplikasi
 
-# Daftar Package yang digunakan
-# expo SDK audio
+Daftar Package yang digunakan
+expo SDK audio
